@@ -1,2 +1,1 @@
-# Thursday-8-15
-Thursday Testing
+this is the day 3 of the first week of class
